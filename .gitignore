@@ -1,0 +1,7 @@
+pokemon/
+saved_models/
+*.pth
+*.pth.tar
+*.npy
+.nailfec
+nailfec/
