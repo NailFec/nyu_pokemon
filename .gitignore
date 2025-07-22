@@ -4,5 +4,4 @@ saved_models/
 *.pth.tar
 *.npy
 .nailfec
-nailfec/
 __pycache__/
