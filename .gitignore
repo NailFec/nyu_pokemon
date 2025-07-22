@@ -5,3 +5,4 @@ saved_models/
 *.npy
 .nailfec
 nailfec/
+__pycache__/
